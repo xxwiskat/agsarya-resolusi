@@ -3,3 +3,4 @@ Hi, i'm Ade from Bali
 My resolution:
 - Make Dynamic Website with Javascript Framework
 - Make Dynamic Website with Laravel
+- Make One Games
